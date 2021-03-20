@@ -1,0 +1,7 @@
+name: Sends
+version: ${project.version}
+main: com.boyboy0710.WA_Sends.Main
+api-version: 1.16
+
+commands:
+  WA_Sends:
