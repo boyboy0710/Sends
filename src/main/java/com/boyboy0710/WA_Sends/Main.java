@@ -149,38 +149,115 @@ public final class Main extends JavaPlugin {
         }
 
         if(trun == 12) {
-            p.sendMessage("그냥... 다음에 벌어질 일을 알고있자니....");
+            p.sendMessage("그냥... 다음에 벌어질 일을 알고있자니...");
+            p.sendMessage("더 이상 신경끄기 어렵다 이거야");
 
         }
         if(trun == 13) {
+            p.sendMessage("뭐, 시도해 볼 만 했어.");
+            p.sendMessage("그런 식으로 해 보자, 이거지?");
 
         }
         if(trun == 14){
-
+            p.sendMessage("이상하겠지만,");
+            p.sendMessage("이 일 전까진 우리가 친구가 될 거라고 내심 기대했었거든.");
+            p.sendMessage("시간이 불규칙한 건 불만족으로 생긴 일이라고 늘 생각했었지.");
+            p.sendMessage("그리고 원하는 걸 얻고 나면, 그 짓을 멈춰줄 거라 생각했어.");
         }
         if(trun == 15){
-
+            p.sendMessage("아마도 걔들이 원하던 건... 글쎄.");
+            p.sendMessage("좋은 음식, 따뜻한 농담, 좋은 친구들이었으려나.");
         }
         if(trun == 16){
-
+            p.sendMessage("근데 그럴 리가 없지, 안 그래?");
+            p.sendMessage("그래, 넌 절대 만족할 수 없는 부류잖아.");
         }
         if(trun == 17){
-
+            p.sendMessage("넌 계속해서 시간을 허비하고 허비하겠지, 계속해서...");
+            p.sendMessage("뭐.야.");
+            p.sendMessage("내 말 잘 들어둬, 꼬마.");
+            p.sendMessage("언젠가...");
+            p.sendMessage("그만두는 법을 배워야 할 거야.");
         }
         if(trun == 18){
-
+            p.sendMessage("그리고 그게 바로 오늘이지.");
         }
         if(trun == 19){
-
+            p.sendMessage("왜냐하면... 너도 알겠지만...");
+            p.sendMessage("이 싸움 정말 지긋지긋하거든.");
         }
         if(trun == 20){
-
+            p.sendMessage("그리고 네가 계속 나를 밀어붙인다면...");
+            p.sendMessage("내 필살기를 사용할 수 밖에 없을 거야.");
         }
         if(trun == 21){
+            p.sendMessage("그래, 필살기. 어디서 많이 들어 봤지?");
+            p.sendMessage("그래, 준비하라고. 이 다음 번에, 사용할 거거든.");
+            p.sendMessage("그러니 보기 싫다면, 지금이 죽기 딱 좋은 때야.");
 
         }
         if(trun == 22){
+            p.sendMessage("자, 별 거 없지만 간다...");
+            p.sendMessage("준비 됐어?");
+            p.sendMessage("이번 공격을 버티면, 내 필살기를 보여 주지");
+        }
+        if(end == true) {
+            p.sendMessage("헉... 헉...");
+            p.sendMessage("좋아. 이제 끝이야.");
+            p.sendMessage("내 필살기를 사용해야겠군.");
+            p.sendMessage("준비 됐어?");
+            p.sendMessage("별 거 없지만 간다.");
 
+            p.sendMessage("");
+            p.sendMessage("그래.");
+            p.sendMessage("맞아.");
+            p.sendMessage("말 그대로 별 거 없는 거야.");
+            p.sendMessage("그리고 어떤 일도 일어나지 않겠지.");
+            p.sendMessage("헤 헤 헤... 알아 들었어?");
+            p.sendMessage("내가 널 이길 수 없다는 걸 알아.");
+            p.sendMessage("네 턴이 돌아오면...");
+            p.sendMessage("넌 날 죽이겠지.");
+            p.sendMessage("그래서, 말야.");
+            p.sendMessage("결심했는데...");
+            p.sendMessage("네 턴이 오는 날은 없을 거야. 절대로.");
+            p.sendMessage("세상이 끝날 때까지 서 있어야 한다고 해도,");
+            p.sendMessage("네가 포기할 때까지 난 계속 내 턴을 유지할 거야. 알겠지?");
+
+            p.sendMessage("곧 지루해질 거야.");
+            p.sendMessage("아직까지도 지루해지지 않았다면 말야.");
+            p.sendMessage("그리고 좀 있으면, 결국 그만두겠지.");
+
+            p.sendMessage("너 같은 부류는 잘 알고 있어.");
+            p.sendMessage("넌, 음, 의지가 매우 강해, 그렇지?");
+            p.sendMessage("정말로 아무런 이득이 없어도...");
+            p.sendMessage("절대 포기하지 않겠지.");
+            p.sendMessage("정확히 말하자면.");
+            p.sendMessage("무슨 일이 있건, 계속 나아가겠지.");
+            p.sendMessage("네 욕망이 선하든 나쁘든 간에...");
+            p.sendMessage("단지 네가 할 수 있다고 믿으니까.");
+            p.sendMessage("그리고 할 수 있으니까...해야만 하는 거겠지.");
+            p.sendMessage("하지만 이젠, 넌 끝까지 왔어.");
+            p.sendMessage("네 앞에 이제 남은건 없어");
+            p.sendMessage("그래서 말야, 개인적인 생각인데...");
+            p.sendMessage("이쯤에서 네 의지로 할 만한 건 뭐가 있을까?");
+            p.sendMessage("지금 당장 모든 걸 포기하는 거야.");
+            p.sendMessage("그리고... (흐암) 말 그대로 다른 일이나 하는 거지.");
+
+            p.sendMessage("헤, 너 정말 그게 가능할 거라 생각");
+            p.sendMessage("");
+            p.sendMessage("...");
+            p.sendMessage("...");
+            p.sendMessage("...");
+            p.sendMessage("그래...");
+            p.sendMessage("결국 이렇게, 되는 건가?");
+            p.sendMessage("...");
+            p.sendMessage("그냥...");
+            p.sendMessage("경고 안 했다고만 하지 말아 줘.");
+
+            p.sendMessage("뭐");
+            p.sendMessage("그릴비나 가야겠군");
+
+            p.sendMessage("파피루스, 뭐 먹고싶은 거 없어?");
         }
     }
 
